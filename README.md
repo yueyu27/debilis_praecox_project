@@ -5,11 +5,11 @@ Authors: Yue Yu, Eric Gonzalez Segovia, Ji Wang, Marco Todesco, Loren H. Riesebe
 
 
 The following scripts are included:
-# -- 1. Map coordinates 
-# -- 2. Genome Assembly & Annotation for PRA
-# -- 3. Genome Assembly & Annotation for DEB
-# -- 4. GBS on the Global Set
-# -- 5. GBS on Cluster A B C
-# -- 6. Local PCA
-# -- 7. GEA
-# -- 8. Inversion Comparison
+#### Code 1. Map coordinates 
+#### Code 2. Genome Assembly & Annotation for PRA
+#### Code 3. Genome Assembly & Annotation for DEB
+#### Code 4. GBS on the Global Set
+#### Code 5. GBS on Cluster A B C
+#### Code 6. Local PCA
+#### Code 7. GEA
+#### Code 8. Inversion Comparison
