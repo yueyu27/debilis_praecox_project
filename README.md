@@ -1,8 +1,7 @@
 # debilis_praecox_project
 Scripts for Genomic and eco-geographic features of locally adapted inversions in wild sunflowers
 
-Authors: Yue Yu, Eric Gonzalez Segovia, Ji Wang, Marco Todesco, Loren H. Rieseberg
-
+Authors: Yue Yu, Eric Gonzalez Segovia, Ji Wang, Alexandra Legendre,Stéphane Munos, Marco Todesco, Loren H. Rieseberg
 
 The following scripts are included:
 #### Code 1. Map coordinates 
